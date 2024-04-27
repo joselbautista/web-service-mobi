@@ -1,0 +1,24 @@
+# Archivos de configuración
+config/*.config
+.env
+
+# Directorio de dependencias
+node_modules/
+
+# Archivos generados durante la compilación
+dist/
+build/
+
+# Archivos de logs y temporales
+logs/
+temp/
+
+# Archivos de usuario locales
+.idea/
+.vscode/
+
+# Ignorar la carpeta env y su contenido
+env/
+
+# Ignorar la carpeta __pycache__ y su contenido
+__pycache__/

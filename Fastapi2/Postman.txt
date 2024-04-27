@@ -1,0 +1,48 @@
+
+http://127.0.0.1:8000/cliente
+{
+        "cod_app": 89,
+        "name": "Pedro Coronado",
+        "vat": "9643430",
+        "phone": "1515616",
+        "mobile": "1515616",
+        "email": "antonio@hospott.com",
+        "street": "Calle metropolitana Nro. 1250",
+        "street2": "Calle las palmas",
+        "zip": "591",
+        "city": "Santa Cruz",
+        "state_name": "Santa Cruz",
+        "country": "Bolivia",
+        "stage_key": "stage3",
+        "payment_date": "2024-02-27 20:55:30",
+        "payment_state": "partial",
+        "payment_amount": 35
+    }
+
+
+http://127.0.0.1:8000/send_products
+{
+  "product_id": "MOTO CYBER V3",
+  "lot_id": "1021",
+  "qty_done": "1.0",
+  "product_uom_id": "Unidades"
+}
+
+
+
+
+
+
+
+
+
+[{"cod_app":"1","name":"Tan Davidson","vat":"2739392530","phone":"465 176 0720","mobile":"762 365 5429","email":"tdavidson0@sciencedaily.com","street":"51 Arrowood Terrace","street2":"179 Welch Pass","zip":"6222","city":"La Paz","state_name":"La Paz","country":"Bolivia","stage_key":"stage2","payment_date":"2024-03-27 20:05:30","payment_state":"Partial","payment_amount":"30"},
+{"cod_app":"2","name":"Abbye Colly","vat":"4152479919","phone":"839 849 4548","mobile":"962 891 2327","email":"acolly1@netscape.com","street":"88751 Manley Pass","street2":"2954 Sachtjen Place","zip":"29","city":"Cochabamba","state_name":"Cochabamba","country":"Bolivia","stage_key":"stage2","payment_date":"2024-03-27 20:55:30","payment_state":"Partial","payment_amount":"100"},
+{"cod_app":"3","name":"Cosetta Dunderdale","vat":"9429186477","phone":"616 486 4981","mobile":"331 543 4305","email":"cdunderdale2@cdbaby.com","street":"6167 Mayer Park","street2":"4 Caliangt Junction","zip":"0","city":"Santa Cruz","state_name":"Santa Cruz","country":"Bolivia","stage_key":"stage4","payment_date":"2024-03-27 21:55:30","payment_state":"Partial","payment_amount":"30"},
+{"cod_app":"4","name":"Concordia Cossons","vat":"3164749970","phone":"505 656 8111","mobile":"678 475 6234","email":"ccossons3@marketwatch.com","street":"07155 Butterfield Alley","street2":"895 Waubesa Place","zip":"42","city":"Cochabamba","state_name":"Cochabamba","country":"Bolivia","stage_key":"stage2","payment_date":"2024-03-28 09:40:25","payment_state":"Partial","payment_amount":"100"},
+{"cod_app":"5","name":"Augy Staples","vat":"2847173915","phone":"790 850 6674","mobile":"336 310 1084","email":"astaples4@dot.gov","street":"52705 Oak Valley Circle","street2":"4185 Rigney Drive","zip":"9","city":"Santa Cruz","state_name":"Santa Cruz","country":"Bolivia","stage_key":"stage4","payment_date":"2024-03-28 11:10:30","payment_state":"Partial","payment_amount":"100"},
+{"cod_app":"6","name":"Cami Baumaier","vat":"7427737657","phone":"457 550 1051","mobile":"603 746 7634","email":"cbaumaier5@yelp.com","street":"9 East Hill","street2":"472 Caliangt Hill","zip":"48","city":"La Paz","state_name":"Cochabamba","country":"Bolivia","stage_key":"stage4","payment_date":"2024-03-28 12:45:32","payment_state":"Partial","payment_amount":"100"},
+{"cod_app":"7","name":"Sherman Dongles","vat":"5984644640","phone":"782 118 1751","mobile":"119 327 4398","email":"sdongles6@livejournal.com","street":"0 Twin Pines Point","street2":"19267 Trailsway Park","zip":"5137","city":"La Paz","state_name":"La Paz","country":"Bolivia","stage_key":"stage4","payment_date":"2024-03-28 14:25:30","payment_state":"Partial","payment_amount":"30"},
+{"cod_app":"8","name":"Hazel Tutchener","vat":"5562664549","phone":"931 731 4677","mobile":"520 416 5533","email":"htutchener7@list-manage.com","street":"14987 Little Fleur Center","street2":"716 Waywood Avenue","zip":"821","city":"Cochabamba","state_name":"Santa Cruz","country":"Bolivia","stage_key":"stage1","payment_date":"2024-03-28 16:15:30","payment_state":"Partial","payment_amount":"30"},
+{"cod_app":"9","name":"Curran Hebblewaite","vat":"1405614030","phone":"331 931 6912","mobile":"207 389 3907","email":"chebblewaite8@sciencedirect.com","street":"297 Myrtle Court","street2":"8016 Raven Drive","zip":"10634","city":"Cochabamba","state_name":"Santa Cruz","country":"Bolivia","stage_key":"stage4","payment_date":"2024-03-28 17:55:30","payment_state":"Partial","payment_amount":"30"},
+{"cod_app":"10","name":"Kipp Last","vat":"3544562324","phone":"629 545 1590","mobile":"770 852 6288","email":"klast9@discuz.net","street":"3676 Becker Place","street2":"5 Jay Park","zip":"1","city":"Santa Cruz","state_name":"Cochabamba","country":"Bolivia","stage_key":"stage2","payment_date":"2024-03-28 19:05:30","payment_state":"Partial","payment_amount":"100"}]
